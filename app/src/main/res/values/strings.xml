@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HW4</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_add">Add</string>
+    <string name="action_apply">Apply</string>
+    <string name="adapter_submenu">adapter_submenu</string>
+    <string name="action_delete">action_delete</string>
+    <string-array name="district_array">
+        <item>Golosiysky</item>
+        <item>Obolonsky</item>
+        <item>Pechersky</item>
+        <item>Podilsky</item>
+        <item>Svyatoshinsky</item>
+        <item>Solomyansky</item>
+        <item>Shevchenkovsky</item>
+        <item>Darnicky</item>
+        <item>Desnyansky</item>
+        <item>Dniprovsky</item>
+    </string-array>
+</resources>
